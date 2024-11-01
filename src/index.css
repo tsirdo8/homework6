@@ -1,0 +1,11 @@
+.separator .line {
+  background-color: #4f5d74;
+  height: 2px;
+  width: 40%;
+  margin: 0 10px;
+}
+
+.separator .pause-icon {
+  color: #cee3e9;
+  font-size: 1.2rem;
+}
